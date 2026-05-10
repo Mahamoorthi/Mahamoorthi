@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Passionate+About+Modern+Web+Design;Focusing+on+Improving+Backend+Development+Skills;Learning+New+Technologies" />
 </p>
 
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="180" height="180" style="border-radius:50%;" />
+</p>
 ---
 
 ## 👩‍💻 About Me
