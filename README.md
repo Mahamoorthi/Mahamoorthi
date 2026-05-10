@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maha Lakshmi</h1>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🌐 Web Design Enthusiast</h3>
 
-<!--
-**Mahamoorthi/Mahamoorthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=200&section=header&text=Maha%20Lakshmi&fontSize=40&fontColor=ffffff"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Passionate+About+Modern+Web+Design;Dedicated+to+Learning+New+Technologies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- 🎓 CSE Graduate passionate about technology  
+- 🌐 Interested in Modern Web Development  
+- 💡 Love creating attractive and user-friendly websites  
+- 🚀 Exploring Full Stack Development  
+- 🧠 Dedicated to continuous learning and problem solving  
+
+---
+
+## 🚀 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Projects
+- 💼 **Job Portal Web Application** – Full Stack Job Portal using React & Django REST Framework   
+---
+
+## 📈 Currently Focusing On
+- 💻 Full Stack Development  
+- ⚡ Building Real World Projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahamoorthi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mahamoorthi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Mahamoorthi">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/maha-lakshmi-26525b371/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+💬 “Passion + Consistency + Creativity = Success 🚀”
