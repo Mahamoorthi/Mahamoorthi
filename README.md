@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react,tailwind,django,mysql,figma,git,github,vscode,postman" />
 </p>
+
 ---
 
 ## 📌 Projects
