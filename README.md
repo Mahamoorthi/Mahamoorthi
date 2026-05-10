@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Passionate+About+Modern+Web+Design;Focusing+on+Improving+Backend+Development+Skills;Learning+New+Technologies" />
 </p>
+
 ---
 
 ## 👩‍💻 About Me
