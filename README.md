@@ -22,9 +22,8 @@
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,Bootstarp,js,python,reactjs,TailwindCSS,Django REST framework, MySQL,Figma,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react,tailwind,django,mysql,figma,git,github,vscode,postman" />
 </p>
-
 ---
 
 ## 📌 Projects
