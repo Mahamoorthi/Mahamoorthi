@@ -29,9 +29,8 @@
 
 ## 📌 Projects
 - 💼 **Job Portal Web Application** – Full Stack Job Portal using React & Django REST Framework
-- 💼 **Food Delivery Web Application** – Developed a responsive full stack food ordering system with menu, cart, user authentication,
-  and order management using HTML, CSS, JavaScript & Django.
-
+- - 💼 **Food Delivery Web Application** – Developed a responsive full stack food ordering system with menu, cart, user authentication,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and order management using HTML, CSS, JavaScript & Django.
 ---
 
 ## 📈 Currently Focusing On
